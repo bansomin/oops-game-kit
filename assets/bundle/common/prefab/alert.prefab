@@ -139,8 +139,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 59.999994268999416,
-      "height": 50.400000000000006
+      "width": 60,
+      "height": 50.4
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -178,7 +178,7 @@
     "_string": "标题",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 31.95,
+    "_actualFontSize": 30,
     "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -360,7 +360,7 @@
     "_string": "内容",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 27.689999999999998,
+    "_actualFontSize": 26,
     "_fontSize": 26,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -602,7 +602,7 @@
     "_string": "确认",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 21.299999999999997,
+    "_actualFontSize": 20,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -729,7 +729,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941",
+      "__uuid__": "0877fdd4-5605-41e6-b643-be4904d506b7@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 1,
@@ -798,22 +798,10 @@
       "b": 124,
       "a": 255
     },
-    "_normalSprite": {
-      "__uuid__": "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
-    "_hoverSprite": {
-      "__uuid__": "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
-    "_pressedSprite": {
-      "__uuid__": "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
-    "_disabledSprite": {
-      "__uuid__": "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_normalSprite": null,
+    "_hoverSprite": null,
+    "_pressedSprite": null,
+    "_disabledSprite": null,
     "_duration": 0.1,
     "_zoomScale": 0.9,
     "_target": {
@@ -832,7 +820,7 @@
     },
     "component": "",
     "_componentId": "653bf8VPC5Fn49zFJFqXVgx",
-    "handler": "onTouchEnd",
+    "handler": "onOk",
     "customEventData": ""
   },
   {
@@ -935,7 +923,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "f9cfbca9-9f35-4dda-8925-64e34e6e9802@f9941",
+      "__uuid__": "18797068-e98a-43a6-a481-afde51c33361@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
