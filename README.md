@@ -81,9 +81,12 @@ oops.gui.open(UIID.Demo);
 ```
 
 ### QQ群
-- 798575969（1群） 
-- 621415300（2群）
-- 628575875（3群）
+- 798575969（1群 - 满）
+- 621415300（2群 - 满）
+- 628575875（3群 - 满）
+- 226524184（4群-推荐）
+- 741197640（5群-推荐）
 
-### QQ频道扫码加入，提供教程，持续更新
-![](http://dgflash.gitee.io/oops-full-stack-web/doc/img/qq.png)
+### QQ频道：q366856bf5
+
+### [点击了解作者其它产品](https://store.cocos.com/app/search?name=oops)
